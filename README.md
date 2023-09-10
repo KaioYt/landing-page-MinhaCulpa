@@ -26,6 +26,6 @@
 #### Funcionando Somente em Desktop
 
 
-Link do site: <a href=“minhaculpa-bykaioyt.netlify.app“>Ver Site</a>
+Link do site: minhaculpa-bykaioyt.netlify.app
 
 
